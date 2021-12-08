@@ -1,7 +1,7 @@
 # Teste Técnico Desenvolvedor FullStack - Mobile
 Teste de conhecimento técnico para a entrevista na Certsys
 
-Para esse teste sera necessário a conclusão dos dois primeiros pontos, se fizer algum item do terceiro ponto serve como ponto extra, mas de obrigatoriedade apenas os dois primeiros.
+O teste consiste na execução dos tópicos listados abaixo, sendo obrigatórios os itens de "Geral, Mobile e Backend", e será levado em consideração como um diferencial caso execute também algum item da lista "Pontos extras".
 
 **_Mobile_**
 - [x] Desenvolver a tela de Splash;
@@ -25,18 +25,20 @@ Para esse teste sera necessário a conclusão dos dois primeiros pontos, se fize
 - [x] Desenvolver o backend com Nestjs(preferível) ou Nodejs;
 - [x] Usar algum banco de dados para guardar as informações(Postgres, Mysql, MongoDB, Redis, Sqlite)
 
+**_Geral_**
+- [x] GitFlow;
+- [x] Criatividade.
+
 **_Ponto extra_**
 - [ ] Filtrar por intervalo de preço;
 - [ ] Autenticação com o google;
-- [x] GitFlow;
 - [ ] Clean Architecture;
 - [ ] Clean code; 
 - [ ] Docker;
 - [ ] Deploy da api;
 - [ ] Envio de email;
 - [ ] Adicionar animação;
-- [ ] Criatividade.
 
 ```text
-Todos os pontos marcados são obrigatórios e segue um schema do banco contido no arquivo schema.json
+Todos os pontos marcados são obrigatórios e segue um schema do banco contido no arquivo schema.jsonc
 ```
