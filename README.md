@@ -26,16 +26,16 @@ Para esse teste sera necessário a conclusão dos dois primeiros pontos, se fize
 - [x] Usar algum banco de dados para guardar as informações(Postgres, Mysql, MongoDB, Redis, Sqlite)
 
 **_Ponto extra_**
-- [] Filtrar por intervalo de preço;
-- [] Autenticação com o google;
+- [ ] Filtrar por intervalo de preço;
+- [ ] Autenticação com o google;
 - [x] GitFlow;
-- [] Clean Architecture;
-- [] Clean code; 
-- [] Docker;
-- [] Deploy da api;
-- [] Envio de email;
-- [] Adicionar animação;
-- [] Criatividade.
+- [ ] Clean Architecture;
+- [ ] Clean code; 
+- [ ] Docker;
+- [ ] Deploy da api;
+- [ ] Envio de email;
+- [ ] Adicionar animação;
+- [ ] Criatividade.
 
 ```text
 Todos os pontos marcados são obrigatórios e segue um schema do banco contido no arquivo schema.json
