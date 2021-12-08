@@ -39,6 +39,12 @@ O teste consiste na execução dos tópicos listados abaixo, sendo obrigatórios
 - [ ] Envio de email;
 - [ ] Adicionar animação;
 
+**_Prototipo_**
 ```text
-Todos os pontos marcados são obrigatórios e segue um schema do banco contido no arquivo schema.jsonc
+https://xd.adobe.com/view/805c6555-3e18-4105-98e5-d5486211e920-d50f/
 ```
+
+**_Observação_**
+- Todos os pontos [x] são obrigatórios. 
+- Segue um schema do banco contido no arquivo schema.jsonc
+- As imagens para teste encontra-se na pasta images. 
