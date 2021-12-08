@@ -8,36 +8,20 @@ O teste consiste na execução dos tópicos listados abaixo, sendo obrigatórios
 - [x] Desenvolver a tela de Home, listando os ténis do backend e respeitando os filtros;
 - [x] Desenvolver a tela de Details;
 - [x] Desenvolver a tela de Checkout, realizando a compra do ténis na api;
-- [x] Desenvolver a tela de Success;
-- [x] Organizar o projeto por consonantização;
-- [x] Desenvolver o mobile com React Native;
-- [x] Segui a risca o XD(Pixel perfect);
-- [x] Mobile integrado com o backend;
-- [x] Entregar a api de uma forma testável(migration, docker ou deploy).
-- [x] Usar alguma lib de components no mobile (Styled-components);
+- [x] Desenvolver a tela de Success.
 
 **_Backend_**
-- [x] Listagem de ténis;
-- [x] Mostrar apenas os ténis que tenha em estoque;
-- [x] Filtrar por nome/categoria/marca;
-- [x] Feature de comprar ténis, reduzindo o estoque;
-- [x] Construir duas tabelas: Product e Order;
-- [x] Desenvolver o backend com Nestjs(preferível) ou Nodejs;
-- [x] Usar algum banco de dados para guardar as informações(Postgres, Mysql, MongoDB, Redis, Sqlite)
+- [x] Rota de Listagem de ténis;
+- [x] Rota de comprar ténis;
+- [x] Construir duas tabelas: Product e Order.
 
 **_Geral_**
-- [x] GitFlow;
-- [x] Criatividade.
+- [x] GitFlow.
 
 **_Ponto extra_**
-- [ ] Filtrar por intervalo de preço;
-- [ ] Autenticação com o google;
 - [ ] Clean Architecture;
-- [ ] Clean code; 
 - [ ] Docker;
-- [ ] Deploy da api;
-- [ ] Envio de email;
-- [ ] Adicionar animação;
+- [ ] Desenvolver o backend com Nestjs(preferível) ou Nodejs.
 
 **_Prototipo_**
 ```text
